@@ -1,6 +1,6 @@
-CC = i386-elf-gcc
-LD = i386-elf-gcc
-OBJCOPY = i386-elf-objcopy
+CC = i686-elf-gcc
+LD = i686-elf-gcc
+OBJCOPY = i686-elf-objcopy
 
 CFLAGS = -flto -Os -pipe -Wall -Wextra -Werror
 

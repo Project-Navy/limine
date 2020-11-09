@@ -1,6 +1,8 @@
 #ifndef __STIVALE__STIVALE2_H__
 #define __STIVALE__STIVALE2_H__
 
+#pragma GCC diagnostic ignored "-Wpedantic"
+
 #include <stdint.h>
 
 struct stivale2_tag {
